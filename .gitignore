@@ -9,8 +9,11 @@ node_modules/
 *.db
 *.sqlite
 *.joblib
-storage/uploads/*
-storage/models/*
-!storage/uploads/.gitkeep
-!storage/models/.gitkeep
+
+# Backend runtime storage
+backend/storage/uploads/*
+backend/storage/models/*
+!backend/storage/uploads/.gitkeep
+!backend/storage/models/.gitkeep
+
 .DS_Store
