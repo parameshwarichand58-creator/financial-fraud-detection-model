@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+.next/
+.env
+.env.local
+*.db
+*.sqlite
+*.joblib
+storage/uploads/*
+storage/models/*
+!storage/uploads/.gitkeep
+!storage/models/.gitkeep
+.DS_Store
