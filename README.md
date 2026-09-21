@@ -1,4 +1,4 @@
-# FraudIQ — Financial Fraud Risk Intelligence Platform
+# Financial Fraud Detection Model
 
 An end-to-end fraud detection & risk analytics platform for financial transaction data.
 Built for the **Zidio Development · Month 2 · Project 2** internship.

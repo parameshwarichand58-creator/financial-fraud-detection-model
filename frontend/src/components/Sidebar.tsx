@@ -35,8 +35,7 @@ export function Sidebar() {
       <div className="h-16 flex items-center px-5 border-b border-border">
         <div className="w-9 h-9 rounded-lg bg-gradient-to-br from-indigo-500 to-cyan-400 flex items-center justify-center font-bold text-white">F</div>
         <div className="ml-3">
-          <div className="font-semibold text-sm leading-none">FraudIQ</div>
-          <div className="text-[11px] text-muted mt-1">Risk Intelligence</div>
+          <div className="font-semibold text-[13px] leading-tight">Financial Fraud</div><div className="text-[11px] text-muted leading-tight">Detection Model</div>
         </div>
       </div>
       <nav className="flex-1 px-3 py-4 space-y-1 overflow-y-auto">

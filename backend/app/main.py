@@ -16,7 +16,7 @@ from app.api.routes import (  # noqa: E402
 from app.db import Base, engine  # noqa: E402
 from app import models as _models  # noqa: E402, F401
 
-app = FastAPI(title="FraudIQ API", version="0.2.0",
+app = FastAPI(title="Financial Fraud Detection Model API", version="0.2.0",
               description="Financial Fraud Risk Intelligence Platform")
 
 app.add_middleware(

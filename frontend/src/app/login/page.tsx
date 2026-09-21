@@ -30,8 +30,8 @@ export default function LoginPage() {
       <div className="w-full max-w-md">
         <div className="text-center mb-8">
           <div className="w-14 h-14 mx-auto rounded-2xl bg-gradient-to-br from-indigo-500 to-cyan-400 flex items-center justify-center text-2xl font-bold text-white">F</div>
-          <h1 className="text-2xl font-bold mt-4">FraudIQ</h1>
-          <p className="text-muted text-sm mt-1">Financial Fraud Risk Intelligence Platform</p>
+          <h1 className="text-2xl font-bold mt-4">Financial Fraud Detection Model</h1>
+          <p className="text-muted text-sm mt-1">Risk Intelligence Platform</p>
         </div>
 
         <div className="bg-surface border border-border rounded-2xl p-6">
